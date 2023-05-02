@@ -52,7 +52,7 @@
     <section class="banner mt-4" style="height: 450px;">
       <div class="row">
         <div class="col-6 text-center"  style="color: #525252; ">
-          <h1 style="margin-top:100px; font-size:40px;">Sistem Penunjang Keputusan</h1>
+          <h1 style="margin-left:100px; font-size:40px;">Sistem Penunjang Keputusan</h1>
           <h2 style="font-size:40px;">....</h2>
           <h3 style="font-size:30px;">...</h3>
           <h3 style="font-size:30px;">Kelompok 8 - SPK A</h3>
