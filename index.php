@@ -64,7 +64,7 @@
         </div>  
 
         <div class="col-5 mt-5">
-          <img src="assets/img/restaurant.png" alt="restaurant" width="400px" style="margin-top: 50px;">
+          <img src="assets/img/gizi.png" alt="gizi" width="400px" style="margin-top: 50px;">
         </div>  
       </div>
     </section>
