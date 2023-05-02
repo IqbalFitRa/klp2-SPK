@@ -43,7 +43,7 @@
 
         <ul class="navbar-nav ms-auto">
           <li class="nav-item me-3">
-            <a class="navbar-brand">Klp 2 - SPK A</a>
+            <a class="navbar-brand">Klp 8 - SPK A</a>
           </li>
         </ul>
       </nav>
@@ -55,11 +55,12 @@
           <h1 style="margin-top:100px; font-size:40px;">Sistem Penunjang Keputusan</h1>
           <h2 style="font-size:40px;">....</h2>
           <h3 style="font-size:30px;">...</h3>
-          <h3 style="font-size:30px;">Kelompok 2 - SPK A</h3>
-          <p style="font-size:25px;">1. Iqbal Fitrahul Ramadhan (2011521017)</p>
-          <p style="font-size:25px;">2. </p>
-          <p style="font-size:25px;">3. </p>
-          <p style="font-size:25px;">4. </p>
+          <h3 style="font-size:30px;">Kelompok 8 - SPK A</h3>
+          <p style="font-size:25px;">1. Iqbal Fitrahul Ramadhan   (2011521017)</p>
+          <p style="font-size:25px;">2. Nada Safarina			        (2011521025)</p>
+          <p style="font-size:25px;">3. Raidha Qatrunnada		      (2011522006)</p>
+          <p style="font-size:25px;">4. Jahro Suroya Taurin		    (2011522013)</p>
+          <p style="font-size:25px;">5. Ahmad Ali Zulfiqar Majid	(2111522007)</p>
         </div>  
 
         <div class="col-5 mt-5">
